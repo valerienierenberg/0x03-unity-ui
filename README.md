@@ -1,4 +1,4 @@
-# 0x03-unity-ui TEST
+# 0x03-unity-ui
 - [Project Page](https://intranet.hbtn.io/projects/422)
 
 ## Adding UI elements to a playable Maze Game that will be deployed with WebGL
